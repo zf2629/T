@@ -115,7 +115,11 @@
             "url": "https://collect.wolongzyw.com/api.php"
         },
       
-
+{
+        "name": "闪电资源",
+       
+        "url": "https://xsd.sdzyapi.com/api.php/provide/vod/?ac=list"
+    },
 
 
 
